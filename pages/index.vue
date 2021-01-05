@@ -73,7 +73,6 @@
 
 <script>
 import { mapGetters } from 'vuex'
-import { PluginManager } from 'covid19-api'
 
 export default {
   name: `Home`,
